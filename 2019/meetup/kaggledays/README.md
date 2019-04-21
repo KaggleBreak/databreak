@@ -8,4 +8,4 @@
 
 발표자료 github - https://github.com/KaggleBreak/databreak/2019/meetup/kaggledays
  
-![](img/._kaggledays_포스터.png)
+![](img/kaggledays_poster.png)
